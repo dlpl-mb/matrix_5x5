@@ -1,0 +1,26 @@
+{
+    "name": "matrix 1.95_5x5",
+    "version": "0.0.29",
+    "description": "Neopixel-Ansteuerung mit Matrixfunktion",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "neop_interface.ts",
+        "tutorial.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only",
+    "icon": "https://baa-mb.github.io/dlpl-multibox/static/icon.png"
+}
